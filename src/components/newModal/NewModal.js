@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Button, Modal } from "react-bootstrap";
-
+import './NewModal.css'
 const NewModal = (props) => {
   const [show, setShow] = useState(false);
 

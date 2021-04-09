@@ -25,6 +25,7 @@ button {
 }
 .desc {
   font-weight: bold;
+  font-family: "Sofia", sans-serif !important;
 }
 .desc-list{
   align-self: center;
@@ -36,7 +37,7 @@ button {
   /* margin: 32px; */
   flex-wrap: wrap;
   justify-content: center;
-  background: cornsilk;
+  /* background: cornsilk; */
 }
 .list-view{
   justify-content: center;
