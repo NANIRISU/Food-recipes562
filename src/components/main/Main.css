@@ -1,0 +1,14 @@
+.main-container{
+    /* flex-basis: 85%; */
+    border-left: 1px solid #00000021;
+    
+    
+}
+@media only screen and (min-device-width: 300px) and (max-device-width: 1024px){
+    .main-container{
+        flex-basis: 100%;
+        /* border-left: 1px solid #00000021;
+         */
+        
+    }
+}

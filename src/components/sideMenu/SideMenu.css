@@ -1,0 +1,34 @@
+.sidemenu-container{
+    flex-basis: 15%;
+    text-align: left;
+    padding-left: 30px;
+    cursor: pointer;
+    
+}
+.sidemenu-container span{
+    font-size: 15px;
+}
+.sidemenu-container svg{
+    height: 15px;
+    margin-left: 10px;
+}
+.logo-container h3{
+margin-top: 30px;
+
+}
+.settings-container h3{
+    margin-top: 30%;
+}
+.book-section{
+    margin-top: 60px;
+}
+.books{
+    height: 37px;
+
+}
+@media only screen and (min-device-width: 300px) and (max-device-width: 1024px) {
+    .sidemenu-container{
+        display: none;
+        
+    }
+}
